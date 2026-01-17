@@ -6,6 +6,7 @@
 
 ## Minggu 1-2: Persiapan dan Studi Literatur Awal
 **Durasi:** 2 minggu
+**Tanggal:** 20 Januari - 2 Februari 2026
 
 ### Tugas:
 - [ ] Mengumpulkan dan membaca jurnal tentang propolis sebagai biomaterial
@@ -296,6 +297,7 @@
 
 ## Minggu 3-4: Perumusan Masalah dan Tujuan Penelitian
 **Durasi:** 2 minggu
+**Tanggal:** 3 - 16 Februari 2026
 
 ### Tugas:
 - [ ] Identifikasi research gap dari literatur yang telah dibaca
@@ -312,6 +314,7 @@
 
 ## Minggu 5-7: Kajian Pustaka Mendalam
 **Durasi:** 3 minggu
+**Tanggal:** 17 Februari - 9 Maret 2026
 
 ### Tugas:
 - [ ] Menulis tinjauan tentang propolis (komposisi, sifat antimikroba, biokompatibilitas)
@@ -328,6 +331,7 @@
 
 ## Minggu 8-9: Metodologi Penelitian
 **Durasi:** 2 minggu
+**Tanggal:** 10 - 23 Maret 2026
 
 ### Tugas:
 - [ ] Menentukan desain penelitian (eksperimental laboratorium)
@@ -347,6 +351,7 @@
 
 ## Minggu 10: Penyusunan Jadwal dan Anggaran
 **Durasi:** 1 minggu
+**Tanggal:** 24 - 30 Maret 2026
 
 ### Tugas:
 - [ ] Membuat jadwal penelitian detail (Gantt chart)
@@ -361,6 +366,7 @@
 
 ## Minggu 11-12: Revisi dan Penyempurnaan
 **Durasi:** 2 minggu
+**Tanggal:** 31 Maret - 13 April 2026
 
 ### Tugas:
 - [ ] Merevisi seluruh draft proposal berdasarkan masukan pembimbing
@@ -377,6 +383,7 @@
 
 ## Minggu 13: Persiapan Presentasi
 **Durasi:** 1 minggu
+**Tanggal:** 14 - 20 April 2026
 
 ### Tugas:
 - [ ] Membuat slide presentasi proposal
@@ -392,6 +399,7 @@
 
 ## Minggu 14: Seminar Proposal
 **Durasi:** 1 minggu
+**Tanggal:** 21 - 27 April 2026
 
 ### Aktivitas:
 - [ ] Seminar proposal tesis
@@ -404,6 +412,7 @@
 
 ## Minggu 15-16: Revisi Pasca-Seminar
 **Durasi:** 2 minggu
+**Tanggal:** 28 April - 11 Mei 2026
 
 ### Tugas:
 - [ ] Merevisi proposal berdasarkan masukan penguji
