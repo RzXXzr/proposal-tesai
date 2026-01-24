@@ -1,0 +1,31 @@
+# Dependencies and build
+node_modules/
+__pycache__/
+*.pyc
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large data files (optional - uncomment if needed)
+# *.csv
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.backup
